@@ -41,7 +41,6 @@ Git, Webpack, Figma
 ## 🌐 Find Me Here  
 
 - [**LinkedIn**](https://www.linkedin.com/in/kevin-gr%C3%B6ger-812949264/)  
-- [**Portfolio/Website**](https://kevingroeger.de)
 
 ---
 
